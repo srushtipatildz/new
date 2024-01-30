@@ -1,0 +1,79 @@
+.box{
+    margin-left: 400px;
+    width: 450px;
+    height: 700px;
+    background-color: rgb(9, 9, 55);
+    border-radius: 20px;
+}
+.golden{
+    background-color: rgb(112, 75, 27);
+    width: 450px;
+    height: 100px;
+    position: relative;
+    bottom: 600px;
+    left: 400px;
+}
+.img{
+    position: relative;
+    bottom: 750px;
+    left: 520px;
+    height: 220px;
+    width: 220px;
+    border-radius: 100%;
+    border: solid 4px  rgb(189, 130, 53);
+    outline: solid 15px rgb(9, 9, 55) ;
+}
+p{
+    font-size: 40px;
+    font-family: "Philosopher", sans-serif;
+    position: relative;
+    bottom: 790px;
+    left: 450px;
+    color: rgb(77, 159, 191);
+}
+h2{
+    position: relative;
+    bottom:830px ;
+    left: 500px;
+    color: rgb(243, 251, 255);
+    font-family: "Abel", sans-serif;
+    font-weight: 100;
+    font-size: 25px;
+}
+.contact{
+    position: relative;
+    bottom: 820px;
+    left: 450px;
+    color:rgb(189, 130, 53);
+    font-size: 20px;
+
+}
+.img1{
+position: relative;
+top: 10px;
+height: 40px;
+width: 40px;
+border-radius: 100%;
+}
+.insta{
+    color:rgb(189, 130, 53) ;
+    font-size: 20px;
+    position: relative;
+    bottom: 800px;
+    left: 450px;
+}
+.mail{
+    font-size: 20px;
+    position: relative;
+    bottom: 770px;
+    left: 450px;
+}
+.map{
+    position: relative;
+    bottom: 745px;
+    left: 450px;
+    font-size: 18px;
+
+}
+background-color: rgb(7, 7, 76);
+background-image: linear-gradient( rgb(5, 5, 68),rgb(13, 13, 147),rgb(6, 6, 66));
